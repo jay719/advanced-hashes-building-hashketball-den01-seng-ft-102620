@@ -1,4 +1,5 @@
 # Write your code here!
+require 'pry'
 def game_hash 
   {
   home: {
@@ -142,4 +143,12 @@ slam_dunks: 12
  
 }
 end
+
+
+   
+
+
+
+
+
 
